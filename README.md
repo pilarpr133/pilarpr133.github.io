@@ -2,7 +2,7 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Metal World
 
 Web: (url github.io)
 
