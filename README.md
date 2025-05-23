@@ -6,11 +6,11 @@ Titulo : Metal World
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: (Pilar Pulido Rodríguez)
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto se trata de una demo de un videojuego que juega con la comedia y la ironía, en el cual el mundo entero está dejando de escuchar música metal. Por tanto, se plantean una serie de toma de decisiones que debe tomar nuestra protagonista, una guitarrista en una banda de death metal conocida como Deathhem.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: videojuego / historia interactiva.
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
@@ -22,7 +22,7 @@ Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edg
 
 Tamaño proyecto: 14MB
 
-Fecha : 14/05/2025
+Fecha : 30/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
