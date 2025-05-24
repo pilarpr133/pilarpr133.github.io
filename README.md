@@ -4,11 +4,11 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Metal World
 
-Web: (url github.io)
+Web: https://pilarpr133.github.io/
 
-Autor: (Pilar Pulido Rodríguez)
+Autor: Pilar Pulido Rodríguez
 
-Resumen : Este proyecto se trata de una demo de un videojuego que juega con la comedia y la ironía, en el cual el mundo entero está dejando de escuchar música metal. Por tanto, se plantean una serie de toma de decisiones que debe tomar nuestra protagonista, una guitarrista en una banda de death metal conocida como Deathhem.
+Resumen : Este proyecto se trata de una demo de un videojuego que juega con la comedia y la ironía, en el cual el mundo entero está dejando de escuchar música metal. Por tanto, se plantean una serie de tomas de decisiones que debe tomar nuestra protagonista, una guitarrista en una banda de death metal conocida como Deathhem.
 
 Estilo/género: videojuego / historia interactiva.
 
@@ -16,20 +16,16 @@ Logotipo : (insertar imagen y breve justificación, si tiene)
 
 (insertar imágenes a resolucion de 100px alto)
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 1280x720px 
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: Google Chrome.
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 156MB
 
 Fecha : 30/05/2025
 
-Medios (donde se tiene presencia relacionada):
-
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Medios:
+Github: https://pilarpr133.github.io/
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
@@ -49,11 +45,10 @@ Orientado a .. (Público)
 Etapa 2: Desarrollo / actividades realizadas
 
 Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+Instrucciones y ayuda al usuario: para pasar de escena, hacer click en los diversos botones. A, S, D y W para mover al personaje. 
+Menús y elementos de navegación (botones): 
+
+
 
 ## 4. Conclusiones
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
