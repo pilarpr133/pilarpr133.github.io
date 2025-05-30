@@ -72,9 +72,7 @@ Etapa 2: Desarrollo / actividades realizadas
 
 Al inicio realicé las ilustraciones con ayuda de Illustrator y Photoshop, ya que, al tratarse de una historia propia, no me resultaba útil buscar imágenes en Internet, excepto para algunos fondos en pixel art, que fueron posteriormente editados en Photoshop para otorgarle dicho efecto. Posterior a esto, decidí llevarme las imágenes a Hippani, donde coloqué los diversos fondos y botones en los distintos escenarios, para finalmente incluir al personaje y opciones más complejas (como la de aletoriedad) en el resto de personajes; contando con que me vi en la posición de ir comprobando que la programación funcionaba correctamente. 
 
-Video
 Instrucciones y ayuda al usuario: para pasar de escena, hacer click en los diversos botones. A, S, D y W para mover al personaje. 
-Menús y elementos de navegación (botones): 
 
 Etapa 3: hay algunos errores que corregir todavía, como el hecho de que los personajes estén tan estáticos, así como los fondos y los elementos del juego (como la llave); pues resultó complicado introducirle animaciones. Además, me gustaría que los diversos botones cambiaran de color al pasar el ratón o el personaje por encima. Esto me lleva a que, la interacción del personaje con los elementos sería otra cosa que podría introducir más adelante, ya que es el ratón el que interactúa con la llave y no el personaje en sí. 
 
