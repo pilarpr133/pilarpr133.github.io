@@ -12,7 +12,8 @@ Resumen : Este proyecto se trata de una demo de un videojuego que juega con la c
 
 Estilo/género: videojuego / historia interactiva.
 
-Logotipo : ![alt text]
+Logotipo : 
+![alt text]
 (https://github.com/pilarpr133/pilarpr133.github.io/blob/ff0f02661c678c21e5a2bd1b3b8101760f140124/imagenes%20readme/logo%20practica%204.png)
 
 Resolución: 1280x720px 
@@ -47,7 +48,8 @@ aleatorios en base a uno que ya existía en el escenario.
 ![alt text]
 (https://github.com/pilarpr133/pilarpr133.github.io/blob/34d108e2661c871230c8f776e673e245fdfce5c2/imagenes%20readme/templo%20practica%204.png)
 
-
+![alt text]
+(https://github.com/pilarpr133/pilarpr133.github.io/blob/b33102faecada877660afb054ddfebc06d596e43/imagenes%20readme/fantasmas%20practica%204.png)
 
 
 ### 2.2. Esquema de navegación
