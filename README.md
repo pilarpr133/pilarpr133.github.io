@@ -50,26 +50,28 @@ aleatorios en base a uno que ya existía en el escenario.
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque se trata de un videojuego pensado para que el jugador tenga la opción de decidir el final de la historia, de manera que se le da la oportunidad de cambiar de bando a lo largo de todo el juego, dejando el resultado final a decisión propia del mismo espectador. Además, está pensado para que tenga diversos minijuegos que aporten algo a la trama de la historia. 
 
-Orientado a .. (Público)
+Orientado a adolescentes y jóvenes, sobre todo aquellos que estén interesados en la música metal y los juegos con tomas de decisiones, con una historia un tanto cómica. 
 
 Etapa 2: Desarrollo / actividades realizadas
+
+Al inicio realicé las ilustraciones con ayuda de Illustrator y Photoshop, ya que, al tratarse de una historia propia, no me resultaba útil buscar imágenes en Internet, excepto para algunos fondos en pixel art, que fueron posteriormente editados en Photoshop para otorgarle dicho efecto. Posterior a esto, decidí llevarme las imágenes a Hippani, donde coloqué los diversos fondos y botones en los distintos escenarios, para finalmente incluir al personaje y opciones más complejas (como la de aletoriedad) en el resto de personajes; contando con que me vi en la posición de ir comprobando que la programación funcionaba correctamente. 
 
 Video
 Instrucciones y ayuda al usuario: para pasar de escena, hacer click en los diversos botones. A, S, D y W para mover al personaje. 
 Menús y elementos de navegación (botones): 
 
-
+Etapa 3: hay algunos errores que corregir todavía, como el hecho de que los personajes estén tan estáticos, así como los fondos y los elementos del juego (como la llave); pues resultó complicado introducirle animaciones. Además, me gustaría que los diversos botones cambiaran de color al pasar el ratón o el personaje por encima. Esto me lleva a que, la interacción del personaje con los elementos sería otra cosa que podría introducir más adelante, ya que es el ratón el que interactúa con la llave y no el personaje en sí. 
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+En conclusión, considero que ha sido bastante interesante realizar este proyecto, pues incluso me he planteado realizarlo a nivel personal en un futuro. Es cierto que resulta complicado a nivel de programación, sin embargo, ha llamado bastante mi atención y considero que se pueden llegar a realizar proyectos asombrosos con estos conocimientos.
+En cuanto a este proyecto en sí, no queda mucho por decir, pues como ya he mencionado, me gustaría mejorarlo en un futuro y poder llegar a acabarlo aunque fuera a nivel personal e incluso compartirlo en redes. Pues, aún le quedan bastantes cosas por terminar y mejorar.
 
 ## 5 Referencias
-**Artículos y blogs **
+https://youtu.be/1Pnt92a4fc4 (videojuego Undertale)
+https://youtu.be/5IzEncyqfgw (serie Metalocalipsis)
 
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
 
 **Hippani Animator 5.1**
 (imagen de la licencia, copiar y pegar aquí la correcta)
