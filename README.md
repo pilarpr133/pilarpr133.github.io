@@ -1,4 +1,4 @@
-# (Nombre del proyecto)
+# (Práctica 4.1)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
