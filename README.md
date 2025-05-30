@@ -12,9 +12,7 @@ Resumen : Este proyecto se trata de una demo de un videojuego que juega con la c
 
 Estilo/género: videojuego / historia interactiva.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
-
-(insertar imágenes a resolucion de 100px alto)
+Logotipo : 
 
 Resolución: 1280x720px 
 
