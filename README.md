@@ -44,6 +44,9 @@ aleatorios en base a uno que ya existía en el escenario.
 ![alt text]
 (https://github.com/pilarpr133/pilarpr133.github.io/blob/377b0cfa0470c17a7bd96f54a3a279407d4470cc/imagenes%20readme/men%C3%BA%20practica%204.png)
 
+![alt text]
+(https://github.com/pilarpr133/pilarpr133.github.io/blob/34d108e2661c871230c8f776e673e245fdfce5c2/imagenes%20readme/templo%20practica%204.png)
+
 
 
 
