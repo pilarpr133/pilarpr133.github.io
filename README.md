@@ -42,13 +42,18 @@ En conclusión, se trata de una escena bastante sencilla, donde he hecho uso de 
 aleatorios en base a uno que ya existía en el escenario.
 
 ![alt text]
+(https://github.com/pilarpr133/pilarpr133.github.io/blob/377b0cfa0470c17a7bd96f54a3a279407d4470cc/imagenes%20readme/men%C3%BA%20practica%204.png)
+
+
+
+
+### 2.2. Esquema de navegación
+![alt text]
 (https://github.com/pilarpr133/pilarpr133.github.io/blob/67ab6ed54473e94eb7b840338c96bf8c6d7bac44/imagenes%20readme/storyboard%201.jpg)
 
 ![alt text]
 (https://github.com/pilarpr133/pilarpr133.github.io/blob/18d404b39014fb5c37cc8fef1c42ff723fe4ddba/imagenes%20readme/storyboard%202.jpg)
 
-### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 ## 3. Metodología
 
