@@ -43,6 +43,9 @@ aleatorios en base a uno que ya existía en el escenario.
 ![alt text]
 (https://github.com/pilarpr133/pilarpr133.github.io/blob/67ab6ed54473e94eb7b840338c96bf8c6d7bac44/imagenes%20readme/storyboard%201.jpg)
 
+![alt text]
+(https://github.com/pilarpr133/pilarpr133.github.io/blob/18d404b39014fb5c37cc8fef1c42ff723fe4ddba/imagenes%20readme/storyboard%202.jpg)
+
 ### 2.2. Esquema de navegación
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
