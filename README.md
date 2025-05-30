@@ -40,8 +40,8 @@ Finalmente, el botón de “play” nos lleva al menú, ya que se trata de una e
 En conclusión, se trata de una escena bastante sencilla, donde he hecho uso de interacciones con el teclado y el ratón, así como he llegado a implementar una función compleja que permite generar nuevos elementos 
 aleatorios en base a uno que ya existía en el escenario.
 
-
-(imagenes)
+![alt text]
+(https://github.com/pilarpr133/pilarpr133.github.io/blob/67ab6ed54473e94eb7b840338c96bf8c6d7bac44/imagenes%20readme/storyboard%201.jpg)
 
 ### 2.2. Esquema de navegación
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
