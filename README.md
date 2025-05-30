@@ -26,8 +26,22 @@ Medios:
 Github: https://pilarpr133.github.io/
 
 ## 2. Memoria del proyecto
+
+ 
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Para esta práctica, he ideado una escena de la “Parte 1” que se desarrollaría en el videojuego que había planeado en las prácticas anteriores, de manera que pudiera implementar todos los procedimientos requeridos.Para empezar, opté por otorgarle una estética más retro con el empleo del pixel art, ya que una de mis inspiraciones ha sido Undertale, donde se hace uso de esta estética. En esta escena se observa cómo, tras haber recibido el personaje una carta y un libro que le llevan ante un templo, el cual aparece en la práctica, se emplea una llave para entrar.
+
+Una vez dentro, se encuentra con unos espíritus que veneran la música metal, quienes le piden ayuda. En este caso, he hecho uso de la ironía y solo he dado como opción una respuesta, la cual es “no”. A esto, se le suma el hecho de que cada vez que el personaje dice “no”, aparecen más espíritus diciendo exactamente lo mismo para tratar de convencer al protagonista, lo cual no llega a suceder.
+
+Por otra parte, en cuanto a la parte más técnica, he empleado el uso de las teclas W, A, S y D para mover al personaje, así como he ligado una llave al movimiento del ratón, que permite abrir la puerta del 
+templo. Este acontecimiento nos cambia de escena, donde, al apretar el botón de “no”, se generan de forma aleatoria varios fantasmas, hasta llegar al número 10, sin contar el que ya estaba desde un inicio. 
+Finalmente, el botón de “play” nos lleva al menú, ya que se trata de una especie de demo, aunque en la idea original este último botón nos ayudaría a proseguir la historia. 
+ 
+En conclusión, se trata de una escena bastante sencilla, donde he hecho uso de interacciones con el teclado y el ratón, así como he llegado a implementar una función compleja que permite generar nuevos elementos 
+aleatorios en base a uno que ya existía en el escenario.
+
+
+(imagenes)
 
 ### 2.2. Esquema de navegación
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
