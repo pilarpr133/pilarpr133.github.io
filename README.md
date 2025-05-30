@@ -12,7 +12,8 @@ Resumen : Este proyecto se trata de una demo de un videojuego que juega con la c
 
 Estilo/género: videojuego / historia interactiva.
 
-Logotipo : 
+Logotipo : ![alt text]
+(https://github.com/pilarpr133/pilarpr133.github.io/blob/ff0f02661c678c21e5a2bd1b3b8101760f140124/imagenes%20readme/logo%20practica%204.png)
 
 Resolución: 1280x720px 
 
